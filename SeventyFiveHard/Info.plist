@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>75 Hard</string>
+	<key>NSCameraUsageDescription</key>
+	<string>75 Hard needs camera access to take your daily progress photos.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>75 Hard needs photo library access to save your progress photos to the 75 Hard album.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>75 Hard needs photo library access to view your progress photos.</string>
+</dict>
+</plist>
